@@ -6,3 +6,4 @@
 * Buddyapp (fully customized)
 * Kleo
 * Aardvark (re-customize)
+* Olympus - confirmed!
